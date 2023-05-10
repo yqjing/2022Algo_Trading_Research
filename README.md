@@ -1,4 +1,4 @@
-# 2022 Algorithmic Trading Research
+# 2022 CVXPort
 This is the paper and code for the research project 'Optimal Order Execution based on VWAP Benchmark' I conducted at Alpha2Fund Investment.  
   
 All code and data shall not contribute to commercial leak.  
